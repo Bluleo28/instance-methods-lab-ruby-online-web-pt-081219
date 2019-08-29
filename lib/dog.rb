@@ -1,22 +1,8 @@
 class Dog
-end
-
-def 
-  fido = Dog.new 
-  fido.methods
-end 
-  (:puts).with("Woof!")
-fido ; Dog.new 
-fido.bark
+def bark 
+  pus "Woof!"
+  end
 end 
 
-def 
-  fido ; Dog.new 
-  fido = :sit
-end
-  (:puts).with("The dog is sitting")
-  fido ; Dog.new 
-  fido.sir
-    end 
-  end 
-end
+fido = Dog.new 
+fido = Dog.new 
