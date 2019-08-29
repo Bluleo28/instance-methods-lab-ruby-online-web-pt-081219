@@ -3,7 +3,7 @@ end
 
 def 
   fido = Dog.new 
-  fido = "woof!"
+  fido = :bark
 end 
 
 def Dog.new 
