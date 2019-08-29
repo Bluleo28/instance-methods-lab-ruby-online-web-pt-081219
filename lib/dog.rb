@@ -2,9 +2,8 @@ class Dog
 end
 
 def 
-  fido ; Dog.new 
-  
-  fido.object_id 
+  fido = Dog.new 
+  fido.methods
 end 
   (:puts).with("Woof!")
 fido ; Dog.new 
