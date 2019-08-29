@@ -4,7 +4,7 @@ def talk
   end
 end 
 fido = Person.new 
-def walk 
+fido
   puts "The Person is walking"
   end
 end 
