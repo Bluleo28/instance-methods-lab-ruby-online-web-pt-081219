@@ -1,5 +1,5 @@
 def Person
-  Person = Class 
+  Person = be_a.Class 
 end
 def 
  ada ; Person.new 
