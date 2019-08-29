@@ -5,7 +5,7 @@ def
   fido = Dog.new 
   fido = :bark
 end 
-  put "Woof!"
+  (:puts).with("Woof!")
 fido = Dog.new 
 fido.bark
 end 
@@ -14,7 +14,7 @@ def
   fido = Dog.new 
   fido = :sit
 end
-  put "The dog is sitting"
+  (:puts).with("The dog is sitting")
   
   end 
 end
