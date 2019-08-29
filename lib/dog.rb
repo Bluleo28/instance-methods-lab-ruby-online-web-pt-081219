@@ -10,7 +10,9 @@ fido = Dog.new
 fido.bark
 end 
 
-def Dog.new 
+def 
+  fido = Dog.new 
+  fido = 
   sit = "The dog is sitting"
   end 
 end
