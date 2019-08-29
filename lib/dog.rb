@@ -1,7 +1,8 @@
 def Dog
 end
 
-def Dog.new 
+def 
+  fido = Dog.new 
   bark = "woof!"
 end 
 
