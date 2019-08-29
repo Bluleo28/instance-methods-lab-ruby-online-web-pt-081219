@@ -12,8 +12,9 @@ end
 
 def 
   fido = Dog.new 
-  fido = :sit 
+  fido = :sit
 end 
-  sit = "The dog is sitting"
+put "The dog is sitting"
+  
   end 
 end
