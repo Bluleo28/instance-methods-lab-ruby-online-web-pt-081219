@@ -16,7 +16,7 @@ def
 end
   (:puts).with("The dog is sitting")
   fido = Dog.new 
-  fido = 
-  
+  fido.sir
+    end 
   end 
 end
