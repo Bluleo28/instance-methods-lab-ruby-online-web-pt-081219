@@ -7,7 +7,7 @@ def
 end 
 put "Woof!"
 fido = Dog.new 
-fido = bark
+fido.bark
 end 
 
 def Dog.new 
