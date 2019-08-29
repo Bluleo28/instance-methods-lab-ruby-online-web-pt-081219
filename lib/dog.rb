@@ -6,6 +6,8 @@ def
   fido = :bark
 end 
 
+end 
+
 def Dog.new 
   sit = "The dog is sitting"
   end 
