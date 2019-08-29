@@ -3,6 +3,8 @@ end
 
 def 
   fido ; Dog.new 
+  
+  fido.object_id 
 end 
   (:puts).with("Woof!")
 fido ; Dog.new 
