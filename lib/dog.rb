@@ -1,4 +1,5 @@
 def Dog
+  Dog.new 
 end
 
 def 
