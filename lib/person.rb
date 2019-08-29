@@ -1,5 +1,5 @@
 def Person
-  Person ; Class 
+  Person = Class 
 end
 def 
  ada ; Person.new 
