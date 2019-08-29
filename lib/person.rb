@@ -1,15 +1,13 @@
-def Person
-  Person = be_a.Class 
-end
-def 
- ada ; Person.new 
- ada = :talk
- puts  "Hello World!"
-end 
-
-def 
-ada ; Person.new 
-ada = :walk 
-puts "The Person is walking"
+class Person 
+def talk  
+  puts "Hello World!"
   end
+  fido = Person.new 
 end 
+def walk 
+  puts "The Person is walking"
+fido = Person.new 
+    end
+  end
+end
+
