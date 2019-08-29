@@ -1,13 +1,11 @@
 class Person 
-def :talk  
+def talk  
   puts "Hello World!"
   end
 end 
-fido = Person.new 
-def :walk
+f
+def walk
   puts "The Person is walking"
   end
 end 
-  
-  
-fido = Person.new 
+
