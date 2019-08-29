@@ -6,7 +6,9 @@ end
 fido = Person.new 
 def walk 
   puts "The Person is walking"
-  end
+    end
+  end 
 end 
+  
   
 fido = Person.new 
