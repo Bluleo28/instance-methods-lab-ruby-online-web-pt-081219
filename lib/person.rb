@@ -1,4 +1,5 @@
 def Person
+  Person ; Class 
 end
 def 
  ada ; Person.new 
