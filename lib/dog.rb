@@ -1,10 +1,8 @@
-def Dog
-  Dog.new 
+class Dog
 end
 
 def 
   fido ; Dog.new 
-  fido = :bark
 end 
   (:puts).with("Woof!")
 fido ; Dog.new 
